@@ -1,0 +1,1218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new prognostication for the year of our Lord, 1691. Being the third year after bissextile or leap-year, and from the creation of the world, 5640. Exactly calculated according to art, for the meridian of the most famous city of Edinburgh, whose latitude is 55 d. 54 m.¹/₂. and longitude is 11 d. 37 m. / By G. S. Philomath.</title>
+            <author>G. S., philomath, fl. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01341</idno>
+            <idno type="STC">Wing A2309A</idno>
+            <idno type="STC">ESTC R172219</idno>
+            <idno type="EEBO-CITATION">52211664</idno>
+            <idno type="OCLC">ocm 52211664</idno>
+            <idno type="VID">175396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175396)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2732:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new prognostication for the year of our Lord, 1691. Being the third year after bissextile or leap-year, and from the creation of the world, 5640. Exactly calculated according to art, for the meridian of the most famous city of Edinburgh, whose latitude is 55 d. 54 m.¹/₂. and longitude is 11 d. 37 m. / By G. S. Philomath.</title>
+                  <author>G. S., philomath, fl. 1691.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to the City and Colledge,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>for the year 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Blank leaves interleaved with text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, Scottish --  17th century.</term>
+               <term>Ephemerides --  17th century.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175396:1" rendition="simple:additions"/>
+            <p>A NEW <hi>Prognoſtication</hi> For the Year of our Lord, 1691. Being the third Year after <hi>Biſſextile</hi> or <hi>Leap-year,</hi> and from the Creation of the World, 5640. Exactly Calculated according to Art, for the Meridian of the moſt famous City of <hi>EDINBURGH,</hi> whoſe Latitude is 55 d. 54 m. ½. and Longitude is 11 d. 37 m.</p>
+            <figure>
+               <figDesc>blazon or coat of arms of the city of Edinburgh, featuring a triple-towered castle supported by a female figure or maiden and a doe</figDesc>
+               <head>
+                  <q>NISI . DOMINVS . FRVSTRA</q>
+               </head>
+            </figure>
+            <p>By <hi>G. S.</hi> Philomath.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to the City and Colledge, for the Year 1691.</p>
+         </div>
+         <div type="calendar_of_historical_events">
+            <pb facs="tcp:175396:2"/>
+            <head>
+               <hi>A ſuccinct Computation of memorable things to this preſent Year,</hi> 1691.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Since the Creation of the World</cell>
+                     <cell>5640</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Flood of <hi>Noah</hi>
+                     </cell>
+                     <cell>3984</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Deſtruction of <hi>Sodom</hi> and <hi>Gomorrah</hi>
+                     </cell>
+                     <cell>3595</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Building of <hi>Rome</hi>
+                     </cell>
+                     <cell>2443</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Building of <hi>Edinburgh</hi> Caſtle</cell>
+                     <cell>2021</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Firſt King of <hi>Scotland</hi> FERGVS</cell>
+                     <cell>2020</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Paſſion and Death of CHRIST</cell>
+                     <cell>1658</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Converſion of St. <hi>Paul</hi>
+                     </cell>
+                     <cell>1657</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Burning of <hi>Rome</hi> by NERO</cell>
+                     <cell>1630</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Chriſtian Faith was firſt received in <hi>Scotland</hi>
+                     </cell>
+                     <cell>1481</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Firſt uſe of Guns</cell>
+                     <cell>311</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Invention of Printing</cell>
+                     <cell>251</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Colledge of <hi>Glaſgow</hi> was builded</cell>
+                     <cell>236</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battel of <hi>Pinkie, Septemb.</hi> 10.</cell>
+                     <cell>144</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battel of <hi>Corrychie, Septemb.</hi> 10.</cell>
+                     <cell>129</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battel of <hi>Brichen</hi>
+                     </cell>
+                     <cell>119</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Colledge of <hi>Edinburgh</hi> was builded</cell>
+                     <cell>109</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Peſt in <hi>Edinburgh,</hi> wherein died 11000</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Bridge of <hi>Dee</hi> was foughten</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Colledge of <hi>Aberdene</hi> was founded by the Earl <hi>Marshal</hi>
+                     </cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battel of <hi>Glenlivet</hi>
+                     </cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Gun-Powder-Treaſon, <hi>Novemb.</hi> 5.</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Bridge of <hi>Dee</hi> was foughten again, <hi>June</hi>
+                     </cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Rebellion in <hi>Ireland</hi>
+                     </cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battel of <hi>Tippermoor, Septemb.</hi> 1. and <hi>Aberdene Sept.</hi> 14.</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battel of <hi>Inverlochie, Feb.</hi> 2. <hi>Oldearn, May</hi> 9. <hi>Alford, July</hi> 2. <hi>Kilſyth, Aug.</hi> 15. and <hi>Philiphaugh</hi>
+                     </cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battel of <hi>Preſton,</hi> commonly called the Dukes Engagement</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>Since the <hi>Englishes</hi> entered <hi>Scotland, Iuly</hi> 22. Battel of <hi>Dumbar Septemb.</hi> 3. <hi>Edinb.</hi> Caſtle rendered, <hi>Decemb.</hi> 24.</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Town of <hi>Dundee</hi> was taken <hi>Sept.</hi> 1. Battel of <hi>Worceſter Sep.</hi> 3.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Birth of King <hi>William, Novemb.</hi> 4. 1650.</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Birth of Queen <hi>Mary, April</hi> 30. 1662.</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Arrival of King <hi>William</hi> to <hi>England, Novemb.</hi> 5. 1688.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Proclamation of K. <hi>William</hi> and Q <hi>Mary</hi> at <hi>Edinburgh</hi> Whom God preſerve long to Reign over us.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Surrendering the Caſtle of <hi>Edinburgh, Iune</hi> 13. 1689</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Common or Vulgar Notes this Year,</hi> 1691.</head>
+                  <row>
+                     <cell>The Golden Number is</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The Epact is</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>The Dominical Letter is</cell>
+                     <cell>D</cell>
+                  </row>
+                  <row>
+                     <cell>Faſtens-even, or Shrove-tueſday</cell>
+                     <cell>
+                        <hi>Feb.</hi> 24</cell>
+                  </row>
+                  <row>
+                     <cell>Paſch, or Eaſter day</cell>
+                     <cell>
+                        <hi>April</hi> 12</cell>
+                  </row>
+                  <row>
+                     <cell>Whitſunday</cell>
+                     <cell>
+                        <hi>May</hi> 31</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:175396:2"/>
+            <pb facs="tcp:175396:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="calendar_of_eclipses">
+            <pb facs="tcp:175396:3"/>
+            <head>
+               <hi>Of the Eclipſes of the Luminaries, which will happen in this year,</hi> 1691.</head>
+            <p>IN this Year of God 1691, there will happen two E<g ref="char:EOLhyphen"/>clipſes of the <hi>Sun,</hi> but none of the <hi>Moon</hi> will fall in any part of this our Earthly Glob, in all this Solar Revolution.</p>
+            <p>The firſt Eclipſe of the <hi>Sun</hi> will happen on <hi>February</hi> the eighteenth, about our five a<g ref="char:EOLhyphen"/>clock in the morning, but in reſpect it will be inviſible to us, therefore I forbear to men<g ref="char:EOLhyphen"/>tion any further of it.</p>
+            <p>The ſecond Eclipſe of the <hi>Sun</hi> will be on <hi>Thurſday</hi> the thir<g ref="char:EOLhyphen"/>teenth day of <hi>Auguſt,</hi> near ſix of the clock at night: it is ce<g ref="char:EOLhyphen"/>lebrated in one degree of <hi>Virgo,</hi> and Will be a great Eclipſe, if the Air be ſerene, three fourths of the <hi>Sun</hi>'s Body will be ob<g ref="char:EOLhyphen"/>ſcured. The envyous Planet <hi>Saturn</hi> rules the Horoſcope, and will be in the ninth Angle, in platick Oppoſition of <hi>Jupiter: Mercury</hi> governs the Eclipſe, and Mars from <hi>Gemini,</hi> (in Conjunction of the <hi>Bulls Eye)</hi> casts an angry Quadrate both at the Eclipſed <hi>Sun</hi> and him. Verbum ſat.</p>
+            <p>
+               <hi>☞ On the</hi> 25th <hi>day of</hi> July <hi>this Year, is Celebrated a famous Oppoſition of</hi> Saturn <hi>and</hi> Mars; <hi>one of them is with the Pleiades and the other in Oppoſition unto that tur<g ref="char:EOLhyphen"/>bulent Conſtellation. The effects whereof will not only be ſeen in the Air, but in the Actions and Paſſions of hu<g ref="char:EOLhyphen"/>mane kind: I mean that part of them that are ſubject to thoſe two Signs wherein the Oppoſition is made,</hi> viz. Tau<g ref="char:EOLhyphen"/>rus <hi>and</hi> Scorpio.</p>
+         </div>
+         <div type="calendar_of_seasons">
+            <pb facs="tcp:175396:4"/>
+            <head>
+               <hi>The four Quarters of this year,</hi> 1691.</head>
+            <div type="season">
+               <head>Spring.</head>
+               <p>
+                  <hi>THe</hi> Spring <hi>begins on</hi> Tueſday, March <hi>10th the Sun entering into the Aequinoctial Sign Sign</hi> Aries, <hi>making our days and nights equal.</hi>
+               </p>
+            </div>
+            <div type="season">
+               <head>Summer.</head>
+               <p>
+                  <hi>THe</hi> Summer <hi>Seaſon begins on</hi> Thurſday, June <hi>11th, the Sun then entering into the Sign</hi> Cancer, <hi>making our days longeſt; and our nights ſhorteſt.</hi>
+               </p>
+            </div>
+            <div type="season">
+               <head>Harveſt.</head>
+               <p>
+                  <hi>THe</hi> Harveſt <hi>Seaſon begins on</hi> Sunday, Sep<g ref="char:EOLhyphen"/>tember <hi>13th, the Sun entering into the 2d. Aequinoctial Sign</hi> Libra, <hi>making again our days and nights equal.</hi>
+               </p>
+            </div>
+            <div type="season">
+               <head>Winter.</head>
+               <p>
+                  <hi>THe</hi> Winter <hi>Seaſon begins on</hi> Saturnday, De<g ref="char:EOLhyphen"/>cember 12. <hi>the Sun then entering into</hi> Ca<g ref="char:EOLhyphen"/>pricorn, <hi>making the ſhorteſt day and longeſt night.</hi>
+               </p>
+               <pb facs="tcp:175396:4"/>
+               <pb facs="tcp:175396:5"/>
+            </div>
+         </div>
+         <div type="almanac">
+            <pb facs="tcp:175396:5"/>
+            <head>
+               <hi>The exact Day, Hour and Minut of the New Moon, her Full and Quarters, with the daily diſpoſition of the Weather, the whole remarkable Fairs in</hi> Scotland; <hi>with ſome remarkable days for the year</hi> 1691. <hi>Alſo the Suns riſing and ſett<g ref="char:EOLhyphen"/>ing at</hi> Edinburgh, <hi>the firſt day of each Month.</hi>
+            </head>
+            <div type="month">
+               <head>January begins upon Thurſday, XXXI. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 25 <hi>minuts paſt</hi> 8. <hi>ſets</hi> 35 <hi>minuts paſt</hi> 3.</head>
+               <p>Full Moon <hi>Sunday</hi> 4 day, 31 min. paſt 11 forenoon.</p>
+               <p>Laſt qu. <hi>Sunday</hi> 11 day, 45 min. paſt 8 morning.</p>
+               <p>Change <hi>Munday</hi> 19 day, 11 houres in the forenoon</p>
+               <p>Second qu. <hi>Tueſday</hi> 27 day, at 6 in the morning.</p>
+               <p>
+                  <hi>The first two days windie and ſtormie, to the 11th more fair but windie, to the 18th inclining to Snow and Stormie, to the</hi> 30. <hi>froſt, with ſome Winds, Snow or Rain, the laſt day is an odd day.</hi>
+               </p>
+               <p>The firſt Fair in the year is at Kilſyth the 1 day. St. Naughlans Fair at the Town of old Meldrum, the 2 Tueſday. Tantan fair at Lawrance Kirk, and at the Kirk of Bethelny in Gerry upon the 7 day St. Mungo in Glaſgow, and at the Town of Polwart the 13 day, at Dunkel and Kilwinning the 21 day. <hi>S.</hi> Pauls Fair at Turriff in Buch<g ref="char:EOLhyphen"/>an the laſt Tueſday.</p>
+            </div>
+            <div type="month">
+               <head>February begins on Sunday, XXVIII. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 25 <hi>minuts paſt</hi> 7. <hi>ſets</hi> 35 <hi>minuts paſt</hi> 4,</head>
+               <p>Full Moon <hi>Munday</hi> 2 day, 41 min. paſt 9 at night.</p>
+               <p>Laſt qu. <hi>Munday</hi> 9 day, at 12 a clock at night.</p>
+               <p>Change <hi>Wedneſday</hi> 18 day, 18 min. paſt 4 morning.</p>
+               <p>Second qu. <hi>Wedneſday</hi> 25 day, 29 min. paſt 5 at night.</p>
+               <p>
+                  <hi>This moneth begins with a Sea-ſtorm for ſome days, with Wind, Hail, or Sleet to the</hi> 17 <hi>day: to the</hi> 26 <hi>looking more fair, but windie, the rest indifferent cold winter weather,</hi> &amp;c.</p>
+               <pb facs="tcp:175396:6"/>
+               <p> St. Brides fair at Abernethie, Forres in Murray land, and at the Town of Invernes the 1 day, Candlemas fair in Bamff, Dunkel, Ding<g ref="char:EOLhyphen"/>wal and Dowglas the 2 day, Candlemas fair at the Town of Ratray in Buchan the firſt tueſday after Candlemas, at Couper of Fife the 1. Wedneſday of the moneth, at Methlick the ſecond tueſday, Valentines day being ſtill on the 14 day, at Linlithgow; at Forfar the 15 day, holding 8 dayes, at Valleyfield the 24 day.</p>
+               <p>Whiles in February, whiles in March.</p>
+               <p>Faſtens even fair at Fyvie, and Lanerk on Faſtens even-day.</p>
+            </div>
+            <div type="month">
+               <head>March begins on Sunday, XXXI. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 20 <hi>minuts paſt</hi> 6. <hi>ſets</hi> 40 <hi>minuts paſt</hi> 5.</head>
+               <p>Full Moon <hi>Wedneſday</hi> 4 day, 15 min. paſt 8 at morn.</p>
+               <p>Laſt qu. <hi>Wedneſday</hi> 11 day, 20 min. paſt 6 at night.</p>
+               <p>Change <hi>Thurſday</hi> 19 day, 42 min. paſt 7 at night.</p>
+               <p>Second qu. <hi>Friday</hi> 27 day, 26 min. before 1 morning.</p>
+               <p>
+                  <hi>Moiſtie and cloudie weather to the</hi> 4 <hi>day, fair weather yet windie, with ſome ſhowers, to the</hi> 11 <hi>day, to the</hi> 19 <hi>vari<g ref="char:EOLhyphen"/>able, to the</hi> 28 <hi>more fair, the rest windie with ſome rain.</hi>
+               </p>
+               <p>S. Monnence in Aberdeen, Dumfermling, Abercherder, St Marnoch-Kirk, and Strathven the 1 day, at Kennoquhy in Fife, conſiſt<g ref="char:EOLhyphen"/>ing of Horſe, Neat, &amp;c. with a weekly Mercat every Wedneſday of all fleſh, fiſhes, &amp;c. belonging to the Laird of Balfour, and at Petten<g ref="char:EOLhyphen"/>weem the 3 day, St. Marnoch fair at the Kirk of Leuchel the 1 Tueſday, at Dumblain the firſt Wedneſday, at Markinch the 6 day. St. Annes fair at the Kirk town of tarves the 2 Tueſday, St. Duthos in Tane of Roſs the 9 day, at Inverneſs and Auchtertuil the 10 day, St. Cauſnan at Dunichtin Kirk in Angus ſhire the 11 day, St Pa<g ref="char:EOLhyphen"/>tricks Fair in Dumbartoun, Kirkaldie, and at the kirk of Black-ford the 15 day, at <hi>S.</hi> Johnſtoun the 19 day, S. Cuthberes Fair in Lang<g ref="char:EOLhyphen"/>toun of the Mers the 20 day, Lady day in Weſt-Weems, Bamff, and Auchtermuchtie the 25 day, at Kinroſs the 3 Wedneſday.</p>
+               <p>While in March, and whiles in April.</p>
+               <p>Mid-lentron Fair at Trantie banchrie on Thurſday before Mid<g ref="char:EOLhyphen"/>lentron Sunday, Palm-Sunday Fair at the town of Kirkwal in Ork<g ref="char:EOLhyphen"/>nay, which ſtands the whole week after Palm-ſunday, at the Kirk of Forrig, and at the town of Inverneſs and St. Johnſtoun all upon the Munday thereafter, a Fair at New Leſlie upon the Tweſd after Palm-Sunday, Skierthurſday Fair at Glaſgow, Dumbartoun, Cowper of Angus, Elgin of Murray: Frendraught, and in old Aberdeen the thurſd, after Palm-ſunday. Paſch-munday a Fair at Couper of Fife, and Irwing. A Fair at the town of Forres in Murray Shire, Borrow<g ref="char:EOLhyphen"/>ſtounneſs, and Corſtorphine the firſt tueſd, after Paſch, Paſch Fair at
+<pb facs="tcp:175396:6"/>
+                  <pb facs="tcp:175396:7"/>
+                  <pb facs="tcp:175396:7"/> Lanerk upon the wedneſd. after Paſch, a Fair at <hi>S.</hi> Andrews, hold<g ref="char:EOLhyphen"/>ing all the week after Low-ſunday.</p>
+            </div>
+            <div type="month">
+               <head>April begins on Wedneſday, XXX. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 8 <hi>minuts paſt</hi> 5. <hi>ſets</hi> 52 <hi>minuts paſt</hi> 6.</head>
+               <p>Full Moon <hi>Thurſday</hi> 2 day, 12 min. paſt 7 at night:</p>
+               <p>Laſt qu. <hi>Friday</hi> 10 day, about 1 afternoon.</p>
+               <p>Change <hi>Saturnday</hi> 18 day, 30 min. paſt 8 morning:</p>
+               <p>Second qu. <hi>Saturnday</hi> 25 day, 54 min. paſt 6 morning.</p>
+               <p>
+                  <hi>Clowdie and windie with rain or ſome hail to the</hi> 10 <hi>day, then to the</hi> 17 <hi>more fair and temperate, to the</hi> 24 <hi>variable, ſometimes wind, rain and perhaps thunder, the rest indiffe<g ref="char:EOLhyphen"/>rent good weather.</hi>
+               </p>
+               <p>St. Oles Fair at Crudden in Buchan, The firſt Tueſday, St. Do<g ref="char:EOLhyphen"/>nalds Fair at the Kirk of Auchterleſs in Buchan the 17 day, St. Marks Fair in Dyſert and Forres the 23 day, St. Marks day being the 35 day. Beltan day the firſt being the 26 day, a Fair at Rugland the 28 day, laſting 4 dayes, Rude Fair at Ratray in Buchan, and St. George Fair at the Kirk of Methlick the laſt Tueſday, a Fair at Leven the 29 day, in Kilreny the 30 day.</p>
+            </div>
+            <div type="month">
+               <head>May begins on Friday, XXXI. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 4 <hi>Minuts paſt</hi> 4. <hi>ſets</hi> 56 <hi>minuts paſt</hi> 7.</head>
+               <p>Full Moon <hi>Saturnday</hi> 2 day, 2 min. paſt 7 morning:</p>
+               <p>Laſt qu. <hi>Sunday</hi> 10 day, 27 min. paſt 7 morning.</p>
+               <p>Change <hi>Sunday</hi> 17 day, 19 min. paſt 6 at night.</p>
+               <p>Second qu. <hi>Munday</hi> 25 day, 40 min. paſt 8 morning.</p>
+               <p>Full Moon <hi>Sunday</hi> 31 day, 44 min. paſt 7 at night.</p>
+               <p>
+                  <hi>The Air is often disturbed with wind, rain, thunder or light<g ref="char:EOLhyphen"/>ning and unwholſome blaſts to the</hi> 13 <hi>day, then to the</hi> 25 <hi>windie and hot, moſt part fair, yet ſometimes variable, the moneth ends pretty fair.</hi>
+               </p>
+               <p>A Fair in the New Burgh of Girven the firſt Tueſday, with a weekly mercat every Munday, and another every Friday, belonging to the Laird of Pinkell, St. Philips Fair in the Grange of Linlithgow Shire, May Fair at Falkirk, and at the New Kirk of Kilpatrick the 1 day, St. Minnans Fair at old Chappel in Freſwick within the ſhire of Caithneſs the 2 day, Rude Fair at Ellion in Buchan, Belton Fair at Mon<g ref="char:EOLhyphen"/>roſs in the Shire of Angus, at Kinrocher and Peebles, S. Congals Fair
+<pb facs="tcp:175396:8"/> at the Kirk of Doors in Mernes Shire, Fumuck Fair at Fumuck Kirk in Bamff Shire, Chappel of Dine in the Pariſh of Watten, and Dinet within the Shire of Caithneſs, all on the 3 day, a Fair at Midlethird of Gartmore the 5 day, at Renfrew 9 d. at Carlouk, Drymen and Pitlefie the 10 day, Brando Fair at Bamff &amp; kaldie the 15 d. s. Iohns Fair at old Meldrum the laſt Tueſd. a Fair at Glenquhithel the laſt Wedneſday.</p>
+               <p>Whiles in May, whiles in Iune,</p>
+               <p>Aſcenſion day at the Burgh of Annan, and at Stirling ten dayes be<g ref="char:EOLhyphen"/>fore whitſunday; Whitſunday Fair at Stone-hive in Merns Shire, and at Alith in the Shire of Angus on Tueſday before Whitſunday, at New Le<g ref="char:EOLhyphen"/>ſly the Thurſday before Whitſunday, Whitſun-munday at Glaſgow, Dumbarton and Iedburgh, Whitſun-tueſday called Pardonday, at Chan<g ref="char:EOLhyphen"/>ry in Roſs, Borrowſtounnes, Peter-head, Kirk of Ninians, Ormiſtoun, Linlithgow, Dumblain, Whitſunday Fair at Lanerk the Wedneſday af<g ref="char:EOLhyphen"/>ter Whitſunday, Trinity-Sunday, being ſtill the Sunday after Whitſun<g ref="char:EOLhyphen"/>day, Trinity Munday at Edinburgh, holding 8 dayes, at Brechin, S. Andrews and Bruntiland the ſame day, Trinity Tueſday in Ruglan, Trinity Wedneſday at the moor of Dun, Trinity Thurſday at Falkland</p>
+            </div>
+            <div type="month">
+               <head>June begins on Munday, XXX. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 23 <hi>minuts paſt</hi> 3. <hi>ſets</hi> 37 <hi>minuts paſt</hi> 8.</head>
+               <p>Laſt qu. <hi>Munday</hi> 8 day, 36 min. paſt 11 at night,</p>
+               <p>Change <hi>Tueſday</hi> 16 day, 28 min. paſt 2 morning.</p>
+               <p>Second qu. <hi>Munday</hi> 22 day, 14 min. paſt 5 afternoon.</p>
+               <p>Full Moon <hi>Tueſday</hi> 30 day, 15 min. paſt 10 forenoon,</p>
+               <p>
+                  <hi>To the</hi> 15 <hi>day indifferent good weather with ſome rain, variable with South weſt-winds to the</hi> 22 <hi>day, the reſt of the moneth good Summer weather.</hi>
+               </p>
+               <p>At Carington the 1 d. A fair at Kinroſs &amp; Dunglaſs the 1 Tueſd. in Colinsburgh the 1 friday, belonging to the Noble Earl of Belcarras. in Lang-newtoun the 5 day, a Fair at Stramiglo, Aberdour, and Enner<g ref="char:EOLhyphen"/>keithing the 6 day, S. Colms Fair at Drumhead in Belhelvie Kirk town of David in the Gerry, Muirs-keith near the Kirk of Carachy in An<g ref="char:EOLhyphen"/>gus Shire, Bernards Fair at Monifeeth, and at New-deer in Buchan, all upon the ſecond Tueſday, a Fair at Drymen the 9 day, in Forgon<g ref="char:EOLhyphen"/>denny the 10 d. S. Barnabie in Lawder, Dyſert, Dowglaſs, St. Lau<g ref="char:EOLhyphen"/>rence Fair in Grinnock, Preſton-pans, and Dirletoun, all on the 11 d. St. Davids Fair in Baligerno in Perth Shire the 12 d. St. Margarets Fair upon he Mains of Keith-hall (ſome times called Casky byn,) at Tur<g ref="char:EOLhyphen"/>reff, at the Burgh of Annan and town of old hamſtocks, all upon the 3 Tueſday, at Abernethy, &amp; Ceres in Fife the 13 d. in Auchtertuil, Bel<g ref="char:EOLhyphen"/>helvie, Clackmanan, St. Anthonies Fair at the good Town of Inverliethen, and at Scoon the 15 d, at Straven the 16 d. St. Mar<g ref="char:EOLhyphen"/>garet in Dumfermling, and at Moffat the 18 d. at Earleſtoun the 19 d.
+<pb facs="tcp:175396:8"/> Monto's Fair holden at Colrain in Roſs ſhire the 20 d. at Methil near Levens mouth the 22 d. St. Iohn the Baptiſts day, and Midſummer<g ref="char:EOLhyphen"/>day being ſtill the 24 d. in Forres, Carnwath, Hawick, and at Town<g ref="char:EOLhyphen"/>yettam on the Border, and at Frazerburgh, Air holding 4d. Wigtoun, Bamf, Athelſtoun, Meiklour &amp; S. Iohn Fair at S. Iohnſtoun, all on the 24d. in Alathy in Angus, called S. Emagola, and at the Town of Nicolſon, both on the 25 d. St. Peters day at Forfar, Faulkland; Brun<g ref="char:EOLhyphen"/>tiland, Bamff, and Kelſo, all on the 26 d. at Gallaſheels the 27 d, St. Peter and Pauls day, being alwayes the 29 d. at Peebles, Falkirk, and Thurſo in Caithnes, S. Seriffs Fair at the Kirk of Culſhalmen in Gerry the laſt Tweſd. of this month. Alſo S. Peters Fair at Migel in Perth-ſhire and Haddingtoun, both upon the laſt day.</p>
+            </div>
+            <div type="month">
+               <head>July begins on Wedneſday, XXXI. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 32 <hi>minuts paſt</hi> 3. <hi>ſets</hi> 28 <hi>minuts paſt</hi> 8.</head>
+               <p>Laſt qu. <hi>Wedneſday</hi> 8 day, 52 min. paſt 1 afternoon.</p>
+               <p>Change <hi>Wedneſday</hi> 15 day, 39 min. paſt 9 morning.</p>
+               <p>Second qu. <hi>Wedneſday</hi> 22 day, 34 min. paſt 1 morning.</p>
+               <p>Full Moon <hi>Thurſday</hi> 30 day, 19 min. paſt 1 morning:</p>
+               <p>
+                  <hi>Cloudie overcasts with ſome rain and wind, to the</hi> viii <hi>day, then to the</hi> xiv <hi>hot weather looking like thunder with ſome rain, to the</hi> xxii <hi>variable, the reſt windie weather and cloudie.</hi>
+               </p>
+               <p>A Fair at Culroſs, Stow, and Edzerſtoun in Teviotdale, all on the firſt d. at Abernethie and Auchtermutchie the ſecond day; St. Mar<g ref="char:EOLhyphen"/>tone or Bulzeon 4 d. Peter Fair at Peter head the 5 d: A new Mar<g ref="char:EOLhyphen"/>ket in Dundee the 1 Tueſday, S. Thomas in Langtoun the 5 d. Lady Mercat at the Kirk of Forden in the Merns 6 d St. Andrews, in Glaſgow and Inverneſs the 7 d. at Borrow-ſtounneſs, Burgh of Annan, and Aikie Fair at the Town of Old Deer, all on the ſecond Tueſday, St. Lawrence at Grinnock the 11 d. at Kilwinning the 12 d. S. Margaret in Killimur, at the Kirk of Forrig, and Errol the 13 d. at Lang<g ref="char:EOLhyphen"/>holm the 15 d. in Moffat and at Kirkaldy the 18 d. at Stirling and Dumfermling the 20 d. Mary Magdalen in Lawder, Linlith<g ref="char:EOLhyphen"/>gow, Petten weem, and Path head 22 d. St. Margarets Fair at Fren<g ref="char:EOLhyphen"/>draught, and in Tarves the 3 Tueſday, at Kinroſs the 3 Wedneſday, S. Andrews Fair at the Kirk of Glaſs in Strabogie, on Tueſday after the 15 d. in Airth and St. Chriſtina in Corſterphin both on the 24 d. S. James at Forfar, Kinghorn, Couper of Fife, Roxburgh, Allo<g ref="char:EOLhyphen"/>way, Muſſelburgh, and at Elgin in Murray, all on the 25 d. at Kinloch Kannoch in Athol in Perth-shire, and Turreff in Buchan laſt Tueſd. S. James Fair at Lanerk on the laſt Wedneſday, at New Leſly, and Whitehorn the laſt Thurſday.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:175396:9"/>
+               <head>Auguſt begins on Saturnday, XXXI. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 25 <hi>minuts paſt</hi> 4. <hi>ſets</hi> 35 <hi>minuts paſt</hi> 7.</head>
+               <p>Laſt qu. <hi>Friday</hi> 7 day at 1 a clock in the morning.</p>
+               <p>Change <hi>Thurſday</hi> 13 day, 40 min. paſt 5 afternoon.</p>
+               <p>Second qu, <hi>Thurſday</hi> 20 day, 12 min. paſt 2 morning.</p>
+               <p>Full Moon <hi>Friday</hi> 28 day, 6 min. paſt 5 morning.</p>
+               <p>
+                  <hi>To the</hi> xiii <hi>day variable weather, ſometimes fair, and ſome<g ref="char:EOLhyphen"/>times rain and winds, then to the</hi> xi <hi>more temperat, to the end of the month good for filling the Corns being variable, eſpecially about Barthol-day.</hi>
+               </p>
+               <p>Lambaſday in Atturff, Melroſs, Ennerkeithing, St. Andrews and Dumbartoun, all on the 1 d. Lambaſs Fair at the Town of Kirkwall in Orkney the 3 day, laſting 7 dayes, S. Lawrence Fair in Rane the firſt Tueſday, and Thurſday after in Faulkland, S. Lawrence in Merns shire upon Lawrence Mu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, a little above the place of Hawkertoun, holding four dayes at Jedourgh, Marymas Fair at the town of Mony<g ref="char:EOLhyphen"/>musk, all upon the 2 Tueſday, at Kilſyth the 5 d, in Meiklour the 7 d. S. Lawrence day in Selkirk, Auchtermuchtie Forres, Carnwath, and Dumblain, all on the 10 d. Lady day the firſt in Dundee, Falkirk, Dinet in Caithneſs, Bamſt Mernes, Valley-field, all on the 15 d. at Rugland the 20 d. in Scoon the 22 d. Marymas Fair in the town of Elli<g ref="char:EOLhyphen"/>on in Buchan, Inverneſs, and at the Town of Ratray in Buchan, both upon the 3 Tueſday, S. Bartholomew Apoſtle in Linlithgow, Clack<g ref="char:EOLhyphen"/>mannan, &amp; in Peebles, all on the 24 d. St. Zepherinus in Corſterphine the 26 d. Samarevis day in Forres 27 d. and S. Johns day in S. Iohnſt. and Lawder 29 d. at Kinkairn of Niel the laſt Tueſday, at Stranaver in the reinds of Galloway, and Hook Fair at Lanerk upon the laſt Frid.</p>
+            </div>
+            <div type="month">
+               <head>September begins on Tueſday, XXX. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 33 <hi>minuts paſt</hi> 5. <hi>ſets</hi> 27 <hi>minuts paſt</hi> 6.</head>
+               <p>Laſt qu. <hi>Saturnday</hi> 5 day, 50 min. paſt 10 forenoon.</p>
+               <p>Change <hi>Saturnday</hi> 12 day, 3 min. paſt 1 afternoon.</p>
+               <p>Second qu. <hi>Saturnday</hi> 19 day, 3 min. paſt 6 morning.</p>
+               <p>Full Moon <hi>Sunday</hi> 27 day, 58 min. paſt 10 forenoon.</p>
+               <p>
+                  <hi>In this moneth be buſie in cutting down your Corns and getting them into the Yards, for fear of great winds, yet I trust all ſhall go well with the honeſt Ground-labourer becauſe the weather will not prove very bad.</hi>
+               </p>
+               <pb facs="tcp:175396:9"/>
+               <pb facs="tcp:175396:10"/>
+               <pb facs="tcp:175396:10"/>
+               <p> St. Giles Fair in Elgin the 1 d. in Moffat the 2d. Samervis in Keith the firſt Tueſday, in Skirlin the 4 d. latter Lady day in Dundee, Stir<g ref="char:EOLhyphen"/>ling, Bamff, and at the Town of Inverury all on the 8 d at Monimusk Tarves, Muirskeith, and at the Kirk of Auchindoor, all on the ſecond Tueſday, Rude Fair at Inverneſs, Dumfermling and Iedburgh the 14 d at Forfar &amp; Chappel of Dine in Caithneſs the 15 d. a fair at Pitlefie, the 16 day with a weekly Market, every Wedneſday at Kirkaldie the 20 d. Monens fair at the Kirk of Doors the 3 Tueſday, at Bigger the 3 Wed<g ref="char:EOLhyphen"/>neſday, at old Leſly &amp; Mathews Fair at Linlithgow the 21 day, at Stow the 23 d. a new Fair at Kennoquhy in Fife, belonging to the Laird of Balfour, as alſo at Karil, Dumfreis and Athelſton the 24 d. St. George Fair at Colrain in Roſs ſhire the 25 day at Leven, <hi>Nicolſon, Tranent,</hi> Langtown and Dury, all on the 27 day, St. Michaleſ-day being alwayes upon the 29 d. at new Leſly, Haddingtoun; Air. St. Andrews. Crief, Kirkcudbright, Gallaſhiels and at the Kirk of Forrig, St. Elizabeths Fair at Baligerno in Perſh ſhire, Ranfrew and Burgh of Annan, all on the 29 d. St. ſerom in Bamff the laſt day, at the Kirk of Kinkel, Gi<g ref="char:EOLhyphen"/>fer near the houſe of Yeſter. and Frazerbugh laſt Tueſd.</p>
+            </div>
+            <div type="month">
+               <head>October begins on Thurſday, XXXI. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 43 <hi>minuts paſt</hi> 6. <hi>ſets</hi> 17 <hi>minuts paſt</hi> 5.</head>
+               <p>Laſt qu. <hi>Sunday</hi> 4 day, 32 min. paſt 6 at night.</p>
+               <p>Change <hi>Sunday</hi> 11 day, 56 min. paſt 11 forenoon.</p>
+               <p>Second qu. <hi>Munday</hi> 19 day, paſt 1 in the morning.</p>
+               <p>Full Moon <hi>Munday</hi> 26 day, 19 min. paſt 12 forenoon.</p>
+               <p>
+                  <hi>Cloudie with winds to the</hi> 4 <hi>day, more fair with ſome ſudden ſtorm of wind and rain to the</hi> 14 <hi>day, then to the</hi> 24 <hi>variable winter like weather with clouds and winds, the rest of the moneth more fair.</hi>
+               </p>
+               <p>The 1, 2, 3, a Fair in Salt Preſton; at Dundee, Alith, Kinloch Ran<g ref="char:EOLhyphen"/>noch in Athol; Turreff in Buchan, Mid-Calder, and Danglaſs, all on the 1 Tueſday. St. Francis in Inverliechen the 3 day, in Abernethie Colinsburgh and Valley-field the 4 d. in Meikſour and Edzerſton in Tividale the 5 day, in Cowper of Fife the 9 d. at the Town Lon-head of Liſſvaid, and at Markinch the 8 day. St. Dinnet in St. Johnſtoun, St. Dioniſe in Peebles, Earleſton, Kirkin<g ref="char:EOLhyphen"/>tilloch, Aiton, Auchtermuchtie, Ceres in Fife, Killimuir, Mof<g ref="char:EOLhyphen"/>fat, all on the 9 d. Truel Fair at the Kirk of Renith Moneth, and at Kirktoun of Moniſeeth, the 2 Tueſday, at Drumhead in Belhelvie the 2 Wedneſday at Dalkeith, and Tillibol the 10 d. a fair at Egleſim the 11 day, at Ennerkeithing and Strathven the 12 d. Fenduct at Dinning the 13 day, St. Lukes Fair at old Aberdeen, town of old Hamſtock and Tarves the 3 Tueſday, in Errol the 15 day, in Bor<g ref="char:EOLhyphen"/>rowſtounneſs
+<pb facs="tcp:175396:11"/> and Muſſelburgh 16 d. St. Lukes day, being ſtill on the 18 d. at Keſter in Cathneſs, and Caringtoun. The ſame day, a Fair at Lawder, Kinroſs and Rugland. St. Irena in Corſtorphine, at the Kirk of Carlouk, Ormiſtoun and Townyettam on the Border, all on the 20 d. at the new Kirk of Kilpatrick, 21 d. Mary Salamine in Stirling, Dumfermling, and Kelſo 22 d. at Forfar and Linlithgow 24 d. S. Judes Fair at Glenquhithil the Penult Wedneſday, at Stenton the laſt Tueſday, Hallow Fair in Ratray in Buchan the laſt Tueſday, in Kilreny and Stramiglo the 25 d. Fowles Fair in Pafley and Fal<g ref="char:EOLhyphen"/>kirk the 26 d. St. Simon and Judes day, in Dyſert, Cockeny, Kirkliſtoun, Hawick, Migel in Perth ſhire, and Roſline, all on the 28 d. in Alloway and Nicolſon the 29 d. a flouriſhing Fair in Metthien the third Thurſday, at Whitehorn the laſt Thurſ<g ref="char:EOLhyphen"/>day.</p>
+            </div>
+            <div type="month">
+               <head>November begins on Sunday, XXX. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 53 <hi>minuts paſt</hi> 7. <hi>ſets</hi> 7 <hi>min. paſt</hi> 4.</head>
+               <p>Laſt qu. <hi>Tueſday</hi> 3 day, 2 min. paſt 2 morning.</p>
+               <p>Change <hi>Tueſday</hi> 10 day, 5 min. paſt 1 morning.</p>
+               <p>Second qu. <hi>Tueſday</hi> 17 day, 34 min. paſt 9 morning.</p>
+               <p>Full Moon <hi>Wedneſday</hi> 25 day, 26 min. paſt 2 afternoon.</p>
+               <p>
+                  <hi>Variable weather to the</hi> 10 <hi>day which is Martinmaſs-Even, then to the</hi> 17 <hi>more fair, to the</hi> 25 <hi>ſome whiſtling winds and rain, the reſt indifferent good.</hi>
+               </p>
+               <p>A Fair at Edinburgh the 1 day, holding 8 dayes, Fordice and Dum<g ref="char:EOLhyphen"/>blain, at the New Burgh of Girven and at Iedburgh upon the firſt Tueſday, S. Leonards Fair at Lanerk the firſt Wedneſday, at Ala<g ref="char:EOLhyphen"/>thy the 2 day, at Kilwinning the 3 day, at Forres and Largo the 6 day, Martinmaſs day being ſtill on the 11 d. at Dumbar, Melrois, Cow<g ref="char:EOLhyphen"/>per of Fife, Hamiltoun, Culroſs, Martins Kirk, Kilmhaug and Stra<g ref="char:EOLhyphen"/>bogie, all upon the 11 day. Martinmas Fair at the Town of Kirkwal in Orkny the whole Martimas week. S. Denick at Methil the 2 Tueſ<g ref="char:EOLhyphen"/>day, at Kilſyth the 12 d. S. Helen at Dundee the 13 d. at Grinnock and Down in Monteith the 15 d. Margratmas Fair at Borrowſtoun<g ref="char:EOLhyphen"/>neſs, Dumfermling and Lawder the 16 d. at Tane, Auchtertuil and Bryack Fair at the Kirk of Kowl, all on the 22 d. at Bruntiſland the 23 d. Anderſmas fair at Stradon &amp; Frazerburgh the 29 d. at old Mel<g ref="char:EOLhyphen"/>drum laſt Tueſday, <hi>S.</hi> Andrews day, in S. Johnſtoun, Peebles and Chirnſide the 30 day.</p>
+               <pb facs="tcp:175396:11"/>
+            </div>
+            <div type="month">
+               <pb facs="tcp:175396:12"/>
+               <pb facs="tcp:175396:12"/>
+               <head>December begins on Tueſday, XXXI. dayes.</head>
+               <head type="sub">
+                  <hi>Sun riſeth</hi> 37 <hi>minuts paſt</hi> 8. <hi>ſets</hi> 23 <hi>minuts paſt</hi> 3.</head>
+               <p>Laſt qu. <hi>Wedneſday</hi> 2 day, 44 min. paſt 9 morning.</p>
+               <p>Change <hi>Wedneſday</hi> 9 day, 41 min. paſt 2 afternoon.</p>
+               <p>Second qu. <hi>Thurſday</hi> 17 day, 23 min. paſt 6 at night.</p>
+               <p>Full Moon <hi>Friday</hi> 25 day, paſt 3 morning.</p>
+               <p>Laſt qu. <hi>Thurſday</hi> 31 day, 10 min. paſt 4 afternoon.</p>
+               <p>
+                  <hi>Now, wot ye what ſayes</hi> December? <hi>He will make us re<g ref="char:EOLhyphen"/>member, how we have ſpent the Summer; for many lazie Lub<g ref="char:EOLhyphen"/>bers ſhall find both cold and hunger. In this moneth generally according to the ſeaſon you need not to expect much fair wea<g ref="char:EOLhyphen"/>ther, but Cold, Snow, Froſt, Hail, Rain and Wind. And about Chriſtmaſs remember your Charity to the Poor, and let them not ſtand long knocking at your Gates and Doors.</hi>
+               </p>
+               <p>At Tarves the firſt Tueſday, S. Nicolas fair at Renfrew the 6 d. in Aberdeen the 7 d. at Weſt-Weems the 8 d. Kellamas fair at the Kirk of Rey in Caithneſs, Bamff, Rothemay, and the Town of Deer the 14 d. Manmas fail at the Kirk of Watten in Caithneſs the 15 day, S. Cuthbert in Grange of Linlithgow the 17 d. <hi>S.</hi> Thomas in Glaſgow, Inverneſs, and at the Down in Monteith the 18 d. St. Thomas day, being the 21 d. Chriſtmas the 25 day, St. Stevens day, the 26 day, St. Iohns the 27 day at Forres and Methil, all upon St. Iohns day, St. Davids Fair at Gerry the firſt Tueſday after Chriſt<g ref="char:EOLhyphen"/>maſs.</p>
+            </div>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>THeſe are to give Notice, That the Manufactory for Making of Playing-Cards, <hi>&amp;c.</hi> which formerly be<g ref="char:EOLhyphen"/>longed to Mr. <hi>Peter Bruce,</hi> German Ingeneer, with his Right to the ſame, are now Diſponed by him, and Ratified and Renewed by Act of Their Majeſties Privy Council, in favours of <hi>James Hamilton</hi> Merchant in <hi>Edinburgh:</hi> Who is to be found at Mrs. <hi>Anderſon</hi> her Dwelling-Houſe or Shop, on the North-ſide of the Street, over-againſt the Mercat-Croſs; or at his own Dwelling-Houſe at the Ioch-end of <hi>Reſtalrig.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:175396:13"/>
+            <head>An Ancient <hi>Dutch</hi> Prediction, for the Year 1691.</head>
+            <l>FOur Figurs upſide down, read as ye will,</l>
+            <l>Mak's Year the ſame, &amp; equal number ſtill.</l>
+            <l>In that ſame Year, great Turnings ſhall be made,</l>
+            <l>
+               <hi>Lilly's that Year e're</hi> Auguſt <hi>firſt ſhall fade.</hi>
+            </l>
+            <l>The fragrant Rule, ſhall bloſſom ſweetly fair,</l>
+            <l>Thiſtle <hi>ſhall prick each hand that touch it dare:</hi>
+            </l>
+            <l>Yet theſe three joyn'd, ſhall pleaſant Noſe-gay be,</l>
+            <l>The Harp right tun'd make better Melodie.</l>
+            <l>A Crew of Brethren, come of Fleſh and Blood,</l>
+            <l>Yet wanting both, brought up on Land and Flood;</l>
+            <l>This Year ſhall in all Courts and Councils creep,</l>
+            <l>Diſcloſe their Secrets, yet their Secrets keep:</l>
+            <l>Condemn, Abſolve, raiſe ſtrife, and compoſe jars,</l>
+            <l>In peace teach meekneſs, but in time of Wars,</l>
+            <l>
+               <hi>Shall ruſh as ſwift as ſhaft from</hi> Turkiſh-bow,</l>
+            <l>Shall wound the Horſe, and lay the Ryder low:</l>
+            <l>Though fierce in Fight, to make the ſtouteſt quake,</l>
+            <l>They ſhall be ready ſtill good Truce to make:</l>
+            <l>To juſt great Differences, end Debates,</l>
+            <l>Secure all Ranks in Properties, Eſtates.</l>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>FOr ſeveral New Fairs belonging to the</hi> Laird of McPHARLANE <hi>within the Shire of</hi> Dumbar<g ref="char:EOLhyphen"/>toun, <hi>and Paroch of</hi> Tarbat, <hi>with a Weekly Mercat every Wedneſday, to be kept at the Town of</hi> Inver-loch.</p>
+            <p>
+               <hi>The first is at the Town of</hi> Tarbat, <hi>on the</hi> 12 <hi>and</hi> 13 <hi>days of March. The</hi> 2. 3, 4 <hi>and</hi> 5, <hi>at</hi> Inver-loch, <hi>the ſecond is on the</hi> 17 <hi>and</hi> 18 <hi>days of June, the third is on the</hi> 26 <hi>and</hi> 27 <hi>of July, the fourth on the</hi> 2 <hi>and</hi> 3 <hi>of September, the fifth and laſt on the</hi> 14 <hi>and</hi> 15 <hi>of October, in all time coming, with the Cuſtom free for the firſt year.</hi>
+            </p>
+            <pb facs="tcp:175396:13"/>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:175396:14"/>
+            <pb facs="tcp:175396:14"/>
+            <head>Advertiſement.</head>
+            <p>THeſe are to give Notice to all Perſons, that the Manufactory which belonged to the two <hi>French-men,</hi> for Freizing of all ſorts of Cloths and Sarges whatſoever; and alſo for Freizing of Turned Cloaths, which will appear als well as they were fully New: They do now belong to <hi>James Hamilton</hi> and <hi>John Pringle,</hi> who are to be found, either at the ſaid <hi>John Pringle</hi>'s Dwelling-Houſe, at the Head of the <hi>Cow-gate,</hi> or at <hi>William Hutton</hi>'s Shop Merchant, over a<g ref="char:EOLhyphen"/>gainſt the Head of <hi>Libertouns-Wynd.</hi>
+            </p>
+         </div>
+         <div type="tide_table">
+            <head>A Tide Table for <hi>Leith. The <g ref="char:V">Ʋ</g>ſe.</hi>
+            </head>
+            <p>Seek the Moons Age in the firſt and ſecond Co<g ref="char:EOLhyphen"/>lumn of the Table, and in the two laſt Columns you have the true time of full Sea at <hi>Leith.</hi>
+            </p>
+            <p>Example to find the full Sea the 5 of <hi>April</hi> 1691. I find the Moons age by the following Table, to be 16. which I find in the ſecond Column of this Table, and over againſt in the laſt Co<g ref="char:EOLhyphen"/>lumn, I find 3 <hi>h.</hi> 3 min. the true time of ful Sea required.</p>
+            <p>
+               <table>
+                  <head>A Table ſhewing the hour and min. of high water at <hi>Leith,</hi> for every day of the Moons age, increaſing or de<g ref="char:EOLhyphen"/>creaſing.</head>
+                  <row>
+                     <cell cols="2">Moons age.</cell>
+                     <cell cols="2">Full Sea at <hi>Leith</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>increaſ.</cell>
+                     <cell>decreaſ.</cell>
+                     <cell>
+                        <hi>hours.</hi>
+                     </cell>
+                     <cell>
+                        <hi>min.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>17</cell>
+                     <cell>3</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>19</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>20</cell>
+                     <cell>5</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>21</cell>
+                     <cell>6</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>22</cell>
+                     <cell>6</cell>
+                     <cell>51</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>23</cell>
+                     <cell>7</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>24</cell>
+                     <cell>8</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>25</cell>
+                     <cell>9</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>27</cell>
+                     <cell>11</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>28</cell>
+                     <cell>0</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="notice">
+            <p>
+               <hi>Advertiſement,</hi> There is two new Fairs at <hi>Dun<g ref="char:EOLhyphen"/>glaſs,</hi> within the ſheriſtdome of <hi>Eaſt-Lethian</hi> belonging to the Right Honorable, Sir IOHN HALL of <hi>Dunglaſs;</hi> the firſt upon the 1 Tueſd. of <hi>Iune:</hi> the other on the 1 Tueſd. of <hi>October</hi> yearly, each laſting 3 days, with a weekly Mercat every Sa<g ref="char:EOLhyphen"/>turnday.</p>
+         </div>
+         <div type="lunar_table">
+            <pb facs="tcp:175396:15"/>
+            <head>A ready Table ſhewing the Age of the Moon every day throughout this Year, 1691.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Dayes,</cell>
+                     <cell>January</cell>
+                     <cell>February</cell>
+                     <cell>March</cell>
+                     <cell>April</cell>
+                     <cell>May</cell>
+                     <cell>Iune</cell>
+                     <cell>Iuly</cell>
+                     <cell>Auguſt</cell>
+                     <cell>Septem.</cell>
+                     <cell>October</cell>
+                     <cell>Novem.</cell>
+                     <cell>Decemb.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>19</cell>
+                     <cell>22</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>13</cell>
+                     <cell>15</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                     <cell>23</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>14</cell>
+                     <cell>16</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>24</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>21</cell>
+                     <cell>22</cell>
+                     <cell>22</cell>
+                     <cell>25</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>16</cell>
+                     <cell>18</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>23</cell>
+                     <cell>26</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>17</cell>
+                     <cell>19</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>24</cell>
+                     <cell>27</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>18</cell>
+                     <cell>20</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                     <cell>22</cell>
+                     <cell>24</cell>
+                     <cell>25</cell>
+                     <cell>25</cell>
+                     <cell>28</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>19</cell>
+                     <cell>21</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>26</cell>
+                     <cell>29</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>20</cell>
+                     <cell>22</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>26</cell>
+                     <cell>27</cell>
+                     <cell>27</cell>
+                     <cell>30</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>21</cell>
+                     <cell>23</cell>
+                     <cell>21</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>25</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                     <cell>28</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>22</cell>
+                     <cell>24</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>28</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>23</cell>
+                     <cell>25</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>27</cell>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>24</cell>
+                     <cell>26</cell>
+                     <cell>24</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                     <cell>30</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>25</cell>
+                     <cell>27</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>26</cell>
+                     <cell>28</cell>
+                     <cell>26</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>27</cell>
+                     <cell>29</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>28</cell>
+                     <cell>30</cell>
+                     <cell>28</cell>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>14</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>12</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>13</cell>
+                     <cell>13</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                  </row>
+               </table>
+            </p>
+            <lg>
+               <l>God hath ordain'd a time for all,</l>
+               <l>The Tide to ſwell, the Tide to fall;</l>
+               <l>Which is governed by the Moon,</l>
+               <l>Take notice of it, ſo I've done.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>TO all Noblemen, Gentlemen, and others; That the Acts of the <hi>CONVEN<g ref="char:EOLhyphen"/>TION OF ESTATES,</hi> and the <hi>ACTS OF PARLIAMENT</hi> of King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> are now in the Preſs; and will be ſhortly Publiſhed, at a very Reaſonable Rate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
